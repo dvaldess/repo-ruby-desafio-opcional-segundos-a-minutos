@@ -7,5 +7,5 @@ def to_minutes(segundos)
     end
     resultado # Es es lo que visualizará el usuario en pantalla
   end
-  print to_minutes([100, 50, 1000, 5000, 1000, 500]) # Aqui se indica los valores que recibirá el metodo
-  print "\n"
+print to_minutes([100, 50, 1000, 5000, 1000, 500]) # Aqui se indica los valores que recibirá el metodo
+print "\n"
